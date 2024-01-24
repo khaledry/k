@@ -32,7 +32,7 @@ var _0x218c = ['.nav-tabs', 'insertBefore', `<form name="jump">
 \
 `, 'https://raw.githack.com/khaledry/k/main/color1.js', 'getScript', 'body', `<link rel="stylesheet" type="text/css" href="">
 \
-<link href="https://raw.githack.com/khaledry/k/main/k1.css" rel="stylesheet" type="text/css" />
+<link href="https://raw.githack.com/khaledry/watar0/main/watar01.css" rel="stylesheet" type="text/css" />
 \
 <link href="https://raw.githack.com/khaledry/k/main/k2.css" media="screen" rel="alternate stylesheet" title="Co2" type="text/css" />
 \

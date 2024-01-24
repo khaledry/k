@@ -40,7 +40,7 @@ var _0x218c = ['.nav-tabs', 'insertBefore', `<form name="jump">
 \
 <link href="https://raw.githack.com/khaledry/k/main/k4.css" media="screen" rel="alternate stylesheet" title="Co4" type="text/css" />
 \
-<link href="https://raw.githack.com/khaledry/k/main/k5.css" media="screen" rel="alternate stylesheet" title="Co5" type="text/css" />
+<link href="https://raw.githack.com/khaledry/watar0/main/watar01.css" media="screen" rel="alternate stylesheet" title="Co5" type="text/css" />
 \
 <style>
 \

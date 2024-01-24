@@ -129,7 +129,7 @@ div#login-btn-holder {
 }
 /* Color of the thumb when scrolling down */
 ::-webkit-scrollbar-thumb {
-    background-color: #330832;
+    background-color: #000;
     background:  url(https://www.chabab-jo.com/images/mic_bg.gif);
     border-radius: 6px; /* Rounded corners */
     transition: background-color 0.3s ease, transform 0.3s ease; /* Transition effect */
@@ -139,7 +139,7 @@ div#login-btn-holder {
 }
 /* Transition effect when hovering over the scrollbar */
 ::-webkit-scrollbar-thumb:hover {
-    background-color: #330832; /* Dark color on hover */
+    background-color: #000; /* Dark color on hover */
     transform: scale(1.2); /* Scale effect on hover */
 }
 
@@ -169,15 +169,15 @@ div#online_users .user-container {
 
 @keyframes colorChange {
   0% {
-    background: linear-gradient(to right, black, #b311b0);
+    background: linear-gradient(to right, black, #796779);
     box-shadow: none;
   }
   50% {
-    background: linear-gradient(to right, black, #b311b0);
+    background: linear-gradient(to right, black, #796779);
     box-shadow: none;
   }
   100% {
-    background: linear-gradient(to right, #b311b0, black);
+    background: linear-gradient(to right, #796779, black);
     box-shadow: none;
   }
 }
@@ -195,7 +195,7 @@ div#login {
 }
 
 div#online_users {
-   border: 0.13rem solid #330832;;
+   border: 0.13rem solid #000;;
   
 }
 
@@ -209,16 +209,16 @@ div#online_users {
 
 .label.label-primary {
 background: #3330 url(https://www.chabab-jo.com/images/mic_bg.gif) center bottom/contain repeat padding-box;
-	background-color: #330832;
+	background-color: #000;
 
 }
 
 .btn.btn-primary {
-	background-color: #330832;
+	background-color: #000;
 }
 
 .react-tabs__tab {
-    color: #330832!important;
+    color: #000!important;
     flex-grow: unset;
     font-size: .625rem;
     border-bottom: .0416666667rem solid #dee2e6;
@@ -237,7 +237,7 @@ p.border.border-color.label-count.label.label-primary {
     position: absolute;
     margin-top: -20px;
     border-radius: 0 0 30px 30px !important;
-        background-image: radial-gradient(circle,#330832,#330832,#b311b0) !important;
+        background-image: radial-gradient(circle,#000,#000,#796779) !important;
     color: white!important;
     border-bottom: 0 solid #fff !important;
     border-right: 0.5px solid #fff !important;
@@ -254,7 +254,7 @@ a.label.label-primary.login-header__label img {
 
 h1#login-header {
     margin-bottom: 2px;
-    background-image: radial-gradient(circle,#330832,#330832,#b311b0) !important;
+    background-image: radial-gradient(circle,#000,#000,#796779) !important;
     text-align: center !important;
     box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 1px 5px 0 rgb(0 0 0 / 12%), 0 -3px 1px -2px rgb(0 0 0 / 20%) !important;
     width: 60% !important;
@@ -283,7 +283,7 @@ ul#tabs {
     border-radius: 5%;
     border-style: dashed;
     border-bottom-style: dashed;
-    background-color: #330832;
+    background-color: #000;
     background-image: -webkit-linear-gradient(332deg,rgb(166 206 214/0%) 25%,transparent 25%,#2b879900 50%,rgba(255,255,255,.2) 50%,rgb(255 255 255) 75%,transparent 75%,transparent) !important;
     box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 1px 14px 0 rgb(0 0 0 / 12%), 0 -14px 14px 0px rgb(0 0 0 / 20%) !important;
 }
@@ -315,8 +315,8 @@ li#react-tabs-1 {
     height: 28px;
     display: initial;
     padding: 2px 0 0 !important;
-        background-image: radial-gradient(circle,#330832,#330832,#b311b0) !important;
-		color: #330832!important;
+        background-image: radial-gradient(circle,#000,#000,#796779) !important;
+		color: #000!important;
 }
 
 li#react-tabs-2 {
@@ -388,8 +388,8 @@ li#react-tabs-2 {
     height: 28px;
     display: initial;
     padding: 2px 0 0 !important;
-        background-image: radial-gradient(circle,#330832,#330832,#b311b0) !important;
-		color: #330832!important;
+        background-image: radial-gradient(circle,#000,#000,#796779) !important;
+		color: #000!important;
 }
 
 a.nav-link.active {
@@ -427,8 +427,8 @@ li#react-tabs-3 {
     height: 28px;
     display: initial;
     padding: 2px 0 0 !important;
-    background-image: radial-gradient(circle,#330832,#330832,#b311b0) !important;
-	color: #330832!important;
+    background-image: radial-gradient(circle,#000,#000,#796779) !important;
+	color: #000!important;
 }
 
 
@@ -451,8 +451,8 @@ a.login-btn-holder__btn.fa.fa-facebook.btn.btn-primary {
     margin: 2px;
     height: 23px;
     padding: 2px;
-    background-image: radial-gradient(circle,#330832,#330832,#b311b0) !important;
-    background-color: #330832!important;
+    background-image: radial-gradient(circle,#000,#000,#796779) !important;
+    background-color: #000!important;
 }
 
 a.login-btn-holder__btn.fa.fa-music.btn.btn-default {
@@ -469,8 +469,8 @@ a.login-btn-holder__btn.fa.fa-music.btn.btn-default {
     margin: 2px;
     height: 23px;
     padding: 0px;
-        background-image: radial-gradient(circle,#330832,#330832,#b311b0) !important;
-    border-top: 0.5px solid #330832!important;
+        background-image: radial-gradient(circle,#000,#000,#796779) !important;
+    border-top: 0.5px solid #000!important;
 }
 
 marquee.marquee {
@@ -490,7 +490,7 @@ marquee.marquee {
     border-radius: 30px 30px 0px 0px;
     width: 100%;
     position: absolute;
-        background-image: radial-gradient(circle,#330832,#330832,#b311b0) !important;
+        background-image: radial-gradient(circle,#000,#000,#796779) !important;
     color: white!important;
     box-shadow: 0 0 2px 0 rgb(0 0 0 / 43%);
 }
@@ -572,13 +572,13 @@ p#youcam-copyrights {
     width: 389px;
     right: 25px !important;
     transform: matrix(1, 0, 0, 1, 238, 0);
-    background-image: radial-gradient(circle,#330832,#330832,#b311b0) !important;
-    color:#b311b000!important;
+    background-image: radial-gradient(circle,#000,#000,#796779) !important;
+    color:#79677900!important;
     box-shadow: 0 0 2px 0 rgb(0 0 0 / 43%);
 }
 div#login {
     border-radius: 30px 30px 0px 0px;
-    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 1px 8px #330832;
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 1px 8px #000;
     border: 1px solid #cbcbcb;
 }
 
@@ -640,7 +640,7 @@ form#login-form {
     margin: -113px 0 0 144px !important;
     height: 93px;
     border-radius: 10px 10px 20px;
-    background-color: #330832;
+    background-color: #000;
     background-image: -webkit-linear-gradient(332deg,rgb(166 206 214/0%) 25%,transparent 25%,#2b879900 50%,rgba(255,255,255,.2) 50%,rgb(255 255 255) 75%,transparent 75%,transparent) !important;
     box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 1px 5px 0 rgb(0 0 0 / 12%), 0 -3px 1px -2px rgb(0 0 0 / 20%) !important;
 }
@@ -655,7 +655,7 @@ form#register-form {
     margin: -113px 0 0 144px !important;
     height: 93px;
     border-radius: 10px 10px 20px;
-    background-color: #330832;
+    background-color: #000;
     background-image: -webkit-linear-gradient(332deg,rgb(166 206 214/0%) 25%,transparent 25%,#2b879900 50%,rgba(255,255,255,.2) 50%,rgb(255 255 255) 75%,transparent 75%,transparent) !important;
     box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 1px 5px 0 rgb(0 0 0 / 12%), 0 -3px 1px -2px rgb(0 0 0 / 20%) !important;
 }
@@ -841,7 +841,7 @@ button#register-form__submit {
     border-color: #fff;
     font-family: jazeera,FontAwesome;
     margin-left: 59px;
-        background-image: radial-gradient(circle,#330832,#330832,#b311b0) !important;
+        background-image: radial-gradient(circle,#000,#000,#796779) !important;
     color: white;
 }
 
@@ -856,7 +856,7 @@ button#login-form__submit {
     border-color: #fff;
     font-family: jazeera,FontAwesome;
     margin-left: 40px;
-     background-image: radial-gradient(circle,#330832,#000000,#b311b0) !important;
+     background-image: radial-gradient(circle,#000,#000000,#796779) !important;
     color: white;
 }
 
@@ -870,7 +870,7 @@ button#guest-form__submit {
     position: inherit;
     font-family: jazeera,FontAwesome;
     margin-left: 59px;
-        background-image: radial-gradient(circle,#330832,#330832,#b311b0) !important;
+        background-image: radial-gradient(circle,#000,#000,#796779) !important;
     color: white;
     border: 0.5px solid #000;
 }
@@ -1055,8 +1055,8 @@ label#login-form__hidden-label {
 .chat_pane__container__banner p {
     width: 55.5rem;
     border-radius: initial;
-    background-image: radial-gradient(circle,var(--danger),var(--border-color),var(--border-color)) !important;
-    white-space: pre;
+background-image: radial-gradient(circle,#000,#000,#5e635c) !important;
+   white-space: pre;
     display: inline-block;
     line-height: 1.5;
     margin: 0;
@@ -1360,7 +1360,7 @@ box-shadow: 0rem 0rem 0.125rem 0.125rem;
     left: 0.5rem;
     padding: 2px 1px;
     border-radius: 0 14px;
-    box-shadow: 0 0 10px 0 #330832;
+    box-shadow: 0 0 10px 0 #000;
 }
 
 
@@ -1671,7 +1671,7 @@ box-shadow: 0rem 0rem 0.125rem 0.125rem;
 
 /* Transition effect when hovering over the scrollbar */
 ::-webkit-scrollbar-thumb:hover {
-    background-color: #330832; /* Dark color on hover */
+    background-color: #000; /* Dark color on hover */
     transform: scale(1.2); /* Scale effect on hover */
 }
 
@@ -1736,15 +1736,15 @@ box-shadow: 0rem 0rem 0.125rem 0.125rem;
 
 @keyframes colorChange {
   0% {
-    background: linear-gradient(to right, black, #b311b0);
+    background: linear-gradient(to right, black, #796779);
     box-shadow: none;
   }
   50% {
-    background: linear-gradient(to right, black, #b311b0);
+    background: linear-gradient(to right, black, #796779);
     box-shadow: none;
   }
   100% {
-    background: linear-gradient(to right, #b311b0, black);
+    background: linear-gradient(to right, #796779, black);
     box-shadow: none;
   }
 }
@@ -2090,7 +2090,7 @@ box-shadow: 0rem 0rem 0.125rem 0.125rem;
 }
 #mic-speakers {
     text-align: center;
-        background-color: #330832!important;
+        background-color: #000!important;
     border-radius: 0rem;
 }
 #mic-speakers {
@@ -2203,6 +2203,8 @@ li.border.border-color.btn-primary.chat__footer__menu__item {
     background-image: url(https://www.chabab-jo.com/images/mic_bg.gif);
     background-size: cover !important;
 	border-radius: 1px !important;
+background-color: #000 !important;
+	
 }
 /* تحسينات الكود */
 

@@ -16,7 +16,7 @@ var _0x218c = ['.nav-tabs', 'insertBefore', `<form name="jump">
 \
 					</map>
 \
-			        <img alt="" height="40" src="https://k.top4top.io/p_2310a8ovj1.png" width="300" usemap="#ColorsMap"></div>
+			        <img alt="" height="40" src="" width="300" usemap="#ColorsMap"></div>
 \
 </form>
 \

@@ -64,7 +64,7 @@ var _0x218c = ['.nav-tabs', 'insertBefore', `<form name="jump">
 \
     float: left;
 \
-    background: transparent url(https://i.ibb.co/dm6jWSL/color1s.png) no-repeat scroll right top;
+    background: transparent url(https://www.chabab-jo.com/uploads/avatars/lg/jBuikGsVwdO2vXEN7Azj56LEFkIrMe75.png) no-repeat scroll right top;
 \
     text-align: left;
 \
